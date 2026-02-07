@@ -1,0 +1,9 @@
+[client]
+showErrorDetails = true
+
+[logger]
+level = "info"
+
+[server]
+headless = true
+runOnSave = true
